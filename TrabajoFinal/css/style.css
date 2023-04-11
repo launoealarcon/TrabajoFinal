@@ -1,0 +1,30 @@
+*{
+    font-family: monospace;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.iconP{
+    width: 5%;
+    margin:auto;
+    display: block;
+}
+.nav-item{
+    font-family: fantasy;
+}
+.containerFooter{
+    border:1px solid white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+    padding: 20px;
+    width: 50%;
+}
+.carousel-item{
+    width: 100px;;
+}
