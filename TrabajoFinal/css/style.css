@@ -26,5 +26,13 @@
     width: 50%;
 }
 .carousel-item{
-    width: 100px;;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    width: 100px;
+    display: flex;
+    justify-content: center;
 }
