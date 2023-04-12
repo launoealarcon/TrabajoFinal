@@ -3,6 +3,11 @@
     box-sizing: border-box;
     margin: 0;
 }
+body {
+    background: rgb(211,61,180);
+background: linear-gradient(90deg, rgba(211,61,180,1) 0%, rgba(234,208,229,1) 24%, rgba(234,211,232,1) 49%, rgba(231,203,225,1) 75%, rgba(217,41,172,1) 100%);
+
+}
 
 .iconP{
     width: 5%;
